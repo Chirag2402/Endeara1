@@ -1,0 +1,26 @@
+.aboutcontent{
+    padding: 20px 40px;
+    padding-bottom: 0px;
+    margin: 30px;
+}
+
+.aboutcontent h2{
+    font-family: 'Josefin Sans', sans-serif;
+    color: #555;
+    display: flex;
+    justify-content: center;
+    padding-left: 0;
+    margin-bottom: 0;
+}
+
+.aboutcontent p{
+    display: flex;
+    align-items: center;
+    font-size: 1.2rem;
+    font-weight: 400;
+    margin-bottom: 1rem;
+    line-height: 2;
+    padding: 0px 210px;
+    text-align: justify;
+    margin-top: 7px;
+}
